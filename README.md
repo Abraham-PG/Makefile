@@ -1,15 +1,6 @@
-<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5599423.png" width="1137" height="90" alt="Auto-practicas del cuadernillo" /></a>
-### Cada problema fue hecho a base del cuadernillo compartido en classroom. :D
-<ul>
-<li><H3><b><i>3.1 Problemas practicos:  31-48 del PDF</i></b></H3></li>
-<li><H4>Problema 1</H4></li>
-<li><H4>Problema 2</H4></li>                     
-<li><H4>Problema 3</H4></li>
-</ul>
+<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5602666.png" width="2423" height="93" alt="Usando MAKE y proponar el templete para compilar, enlazar, borrar" /></a>
+### Se utiliza Make para poder realizar todo lo encontrado en este documento.
 
-![image](https://user-images.githubusercontent.com/99372301/166407517-5334dbde-3d73-4831-9821-0e56971ffd9e.png)
+<div align="center"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oZclJqRB--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/0t3fdxw9v0iy0aw44fil.png" width="800" height=600>
 
-
-
-### Conclusiones
-#### En este cuadernillo se hicieron distintos programas para realizar el cuadernillo.
+</div>
